@@ -55,8 +55,4 @@ footer {
   background-color: white;
   color: red;
 }
-@media(max-width:1200px){
-    .container{
-      margin-top: 250px;
-    }
-}
+ 
